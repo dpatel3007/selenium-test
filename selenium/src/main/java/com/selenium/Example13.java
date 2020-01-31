@@ -21,7 +21,7 @@ public class Example13 {// this program will get all the values of all rows then
 	public void enterText() throws ParseException {
 
 		System.setProperty("webdriver.chrome.driver",
-				"/Users/BlacK_BearD/eclipse-workspace/selenium/drivers/chromedriver");
+				"/Users/BlacK_BearD/GIT/selenium-test/selenium/drivers/chromedriver");
 
 		driver = new ChromeDriver();
 		driver.get("https://money.rediff.com/gainers/bse/daily/groupa");

@@ -19,11 +19,12 @@ public class Example27 {// drag and drop object from one place to the other
 	public void enterText() throws ParseException, InterruptedException {
 
 		System.setProperty("webdriver.chrome.driver",
-				"/Users/BlacK_BearD/eclipse-workspace/selenium/drivers/chromedriver");
+				"/Users/BlacK_BearD/GIT/selenium-test/selenium/drivers/chromedriver");
 
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.get("https://jqueryui.com/droppable/");
+		
 		driver.switchTo().frame(driver.findElement(By.xpath("//*[@id='content']/iframe")));
 		WebElement sourceobj = driver.findElement(By.cssSelector("#draggable"));//#is for calling id  object
 		WebElement targetobj = driver.findElement(By.cssSelector("#droppable"));

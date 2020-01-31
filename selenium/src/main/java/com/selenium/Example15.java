@@ -17,7 +17,7 @@ public class Example15 {
 	public void enterText() throws ParseException, InterruptedException {
 
 		System.setProperty("webdriver.chrome.driver",
-				"/Users/BlacK_BearD/eclipse-workspace/selenium/drivers/chromedriver");
+				"/Users/BlacK_BearD/GIT/selenium-test/selenium/drivers/chromedriver");
 
 		driver = new ChromeDriver();
 		driver.get("https://www.monsterindia.com/seeker/registration");
