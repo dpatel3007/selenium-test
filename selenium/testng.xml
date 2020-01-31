@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNg">
+  <test thread-count="5" name="TestNg">
+    <classes>
+      <class name="com.selenium.Example13"/>
+      <class name="com.selenium.Example12"/>
+      <class name="com.selenium.Example11"/>
+      <class name="com.selenium.Example10"/>
+      <class name="com.selenium.Example17"/>
+      <class name="com.selenium.Example16"/>
+      <class name="com.selenium.Example15"/>
+      <class name="com.selenium.Example14"/>
+      <class name="com.selenium.Example19"/>
+      <class name="com.selenium.Example18"/>
+      <class name="com.selenium.Example24"/>
+      <class name="com.selenium.Example23"/>
+      <class name="com.selenium.Example22"/>
+      <class name="com.selenium.Example21"/>
+      <class name="com.selenium.Example27"/>
+      <class name="com.selenium.Example26"/>
+      <class name="com.selenium.Example25"/>
+      <class name="com.selenium.Example3"/>
+      <class name="com.selenium.Example2"/>
+      <class name="com.selenium.Example1"/>
+      <class name="com.selenium.Example20"/>
+      <class name="logAndReport.ExtendReport"/>
+      <class name="com.selenium.Example9"/>
+      <class name="com.selenium.Example8"/>
+      <class name="com.selenium.Example7"/>
+      <class name="com.selenium.Example6"/>
+      <class name="logAndReport.LoggerTest"/>
+    </classes>
+  </test> <!-- TestNg -->
+</suite> <!-- TestNg -->
