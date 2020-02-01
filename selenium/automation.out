@@ -30,3 +30,11 @@
 2020-01-31 14:01:153 INFO  LoggerTest:32 - Log testB
 2020-01-31 14:01:153 INFO  LoggerTest:33 - Log testC
 2020-01-31 14:01:154 INFO  LoggerTest:34 - Log testD
+2020-01-31 14:01:40 INFO  LoggerTest:26 - Log test1
+2020-01-31 14:01:46 INFO  LoggerTest:27 - Log test2
+2020-01-31 14:01:47 INFO  LoggerTest:28 - Log test3
+2020-01-31 14:01:48 INFO  LoggerTest:29 - Log test4
+2020-01-31 14:01:49 INFO  LoggerTest:31 - Log testA
+2020-01-31 14:01:52 INFO  LoggerTest:32 - Log testB
+2020-01-31 14:01:53 INFO  LoggerTest:33 - Log testC
+2020-01-31 14:01:54 INFO  LoggerTest:34 - Log testD

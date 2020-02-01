@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNg]">
+  <test thread-count="5" name="TestNg(failed)">
+    <classes>
+      <class name="com.selenium.Example15">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example15 -->
+      <class name="com.selenium.Example17">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example17 -->
+      <class name="com.selenium.Example22">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example22 -->
+      <class name="com.selenium.Example11">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example11 -->
+      <class name="com.selenium.Example23">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example23 -->
+      <class name="com.selenium.Example8">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example8 -->
+      <class name="com.selenium.Example6">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example6 -->
+      <class name="com.selenium.Example7">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example7 -->
+      <class name="com.selenium.Example9">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example9 -->
+      <class name="com.selenium.Example20">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example20 -->
+      <class name="com.selenium.Example26">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example26 -->
+      <class name="com.selenium.Example10">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example10 -->
+      <class name="com.selenium.Example16">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example16 -->
+      <class name="com.selenium.Example3">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example3 -->
+      <class name="com.selenium.Example12">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example12 -->
+      <class name="com.selenium.Example1">
+        <methods>
+          <include name="enterDataInTextField"/>
+        </methods>
+      </class> <!-- com.selenium.Example1 -->
+      <class name="com.selenium.Example2">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example2 -->
+      <class name="com.selenium.Example14">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example14 -->
+      <class name="com.selenium.Example18">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example18 -->
+      <class name="com.selenium.Example24">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example24 -->
+      <class name="com.selenium.Example19">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example19 -->
+      <class name="com.selenium.Example21">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example21 -->
+      <class name="com.selenium.Example25">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example25 -->
+      <class name="com.selenium.Example27">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example27 -->
+      <class name="com.selenium.Example13">
+        <methods>
+          <include name="enterText"/>
+        </methods>
+      </class> <!-- com.selenium.Example13 -->
+    </classes>
+  </test> <!-- TestNg(failed) -->
+</suite> <!-- Failed suite [TestNg] -->
